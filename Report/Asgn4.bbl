@@ -1,0 +1,24 @@
+\begin{thebibliography}{1}
+
+\bibitem{hinton2012deep}
+Geoffrey Hinton, Li~Deng, Dong Yu, George~E Dahl, Abdel-rahman Mohamed, Navdeep
+  Jaitly, Andrew Senior, Vincent Vanhoucke, Patrick Nguyen, Tara~N Sainath,
+  et~al.
+\newblock Deep neural networks for acoustic modeling in speech recognition: The
+  shared views of four research groups.
+\newblock {\em IEEE Signal processing magazine}, 29(6):82--97, 2012.
+
+\bibitem{huang2001spoken}
+Xuedong Huang, Alex Acero, Hsiao-Wuen Hon, and Raj Reddy.
+\newblock {\em Spoken language processing: A guide to theory, algorithm, and
+  system development}.
+\newblock Prentice hall PTR, 2001.
+
+\bibitem{juang2005automatic}
+Biing-Hwang Juang and Lawrence~R Rabiner.
+\newblock Automatic speech recognition--a brief history of the technology
+  development.
+\newblock {\em Georgia Institute of Technology. Atlanta Rutgers University and
+  the University of California. Santa Barbara}, 1:67, 2005.
+
+\end{thebibliography}
