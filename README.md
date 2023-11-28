@@ -1,4 +1,6 @@
 # Automatic Speech Detection Model
+The goal of the assignment is to develop a model that can detect speech in an audio file and out the start and end times of all the periods of speech in the audio file
+
 
 ## Metrics for Test Data
 
@@ -25,9 +27,9 @@ Set `noise_threshold` and `pause_threshold` to appropriate values depending on t
 The code used to genrate and save the ASR model
 
 1.  We first use the given start and end times to generate a class vector with appropriate class value for each smaller window.
-2.  We then caculate the MFCCs, delta MFCCs and delta^2 MFCCs of the audio in those windows and concatenate them to get our feature matrix.
-3.  We then split it into train and test data and train the model.
-4.  Lastly we use the model to predict speech segment in each window and then convert the predicted vector into the required form with start and end times.
+2.  We then caculate the $MFCCs$, $ΔMFCCs$ and $Δ^2 MFCCs$ of the audio in those windows and concatenate them to get our feature matrix.
+3.  We then split it into train and test data and train the **fully connected Neural Network**.
+4.  Lastly we use the ML model to predict speech segment in each window and then convert the predicted vector into the required form with start and end times.
 
 ## Note:
 
