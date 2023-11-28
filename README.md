@@ -2,9 +2,9 @@
 
 ## Metrics for Test Data
 
-1. F1 Score = 0.9394
-2. Accuracy = 0.9571
-3. Loss = 0.1462
+1. **Accuracy - 96.35%**
+2. **F1 Score - 94.60%**
+3. Loss = 0.3370
 
 ## main.py
 
