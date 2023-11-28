@@ -1,4 +1,4 @@
-# Automatic Speech Recognition (ASR) Model
+# Automatic Speech Detection Model
 
 ## Metrics for Test Data
 
